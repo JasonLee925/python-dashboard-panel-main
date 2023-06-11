@@ -11,4 +11,6 @@ I studied this project for learning purpose and tried to rewrite it without usin
 
 
 ---
-Ref: https://github.com/holoviz/hvplot/issues/883
+Ref: 
+1. https://github.com/holoviz/hvplot/issues/883
+2. https://levelup.gitconnected.com/unlock-the-potential-of-data-visualization-with-these-amazing-python-libraries-1551f6505a29
